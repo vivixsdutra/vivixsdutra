@@ -6,7 +6,9 @@
 - 👯 Open to Work ! 
 - 😄 Pronouns: Ela/Dela 
 
-##
+ ✨ 🤟🏻 train your mind to see the good in every situation 🤟🏻✨
+ 
+ ##
 
 [![Vitoria's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vivixsdutra&show_icons=true&theme=cobalt#gh-dark-mode-only)](https://github.com/vivixsdutra/github-readme-stats#gh-dark-mode-only)
 
