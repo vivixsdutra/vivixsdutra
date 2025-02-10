@@ -1,8 +1,7 @@
 ### Olá ! Bem vindo (a) ao meu Github ! Por aqui você vai encontrar uma parte da minha jornada ! ✌🏻
 
 
-- ⚙️ Estudante do 5º período de Engenharia de Software no Inatel 
-- 🚀 Atualmente aprofundando meus conhecimentos em JavaScript 
+- ⚙️ Estudante do 7º período de Engenharia de Software no Inatel 
 - 👯 Open to Work ! 
 - 😄 Pronouns: Ela/Dela 
 
