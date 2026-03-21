@@ -1,7 +1,7 @@
 ### Olá ! Bem vindo (a) ao meu Github ! Por aqui você vai encontrar uma parte da minha jornada ! ✌🏻
 
 
-- ⚙️ Estudante do 8º período de Engenharia de Software no Inatel 
+- ⚙️ Estudante do 10º período de Engenharia de Software no Inatel 
 - 👯 Open to Work ! 
 - 😄 Pronouns: Ela/Dela 
 
