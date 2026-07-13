@@ -12,11 +12,12 @@
 
 ##
 
-[![Vitoria's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vivixsdutra&show_icons=true&theme=cobalt#gh-dark-mode-only)](https://github.com/vivixsdutra/github-readme-stats#gh-dark-mode-only)
-[![Vitoria's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vivixsdutra&show_icons=true#gh-light-mode-only)](https://github.com/vivixsdutra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=vivixsdutra&layout=compact&theme=cobalt#gh-dark-mode-only)](https://github.com/vivixsdutra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=vivixsdutra&layout=compact#gh-light-mode-only)](https://github.com/vivixsdutra/github-readme-stats#gh-light-mode-only)
+![Followers](https://img.shields.io/github/followers/vivixsdutra?label=Followers&style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ##
 
