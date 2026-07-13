@@ -1,17 +1,22 @@
 ### Olá ! Bem vindo (a) ao meu Github ! Por aqui você vai encontrar uma parte da minha jornada ! ✌🏻
 
 
-- ⚙️ Estudante do 10º período de Engenharia de Software no Inatel 
-- 👯 Open to Work ! 
+- ⚙️ Formada em Engenharia de Software no Inatel 
 - 😄 Pronouns: Ela/Dela 
 
  ✨ 🤟🏻 train your mind to see the good in every situation 🤟🏻✨
  
  ##
 
-[![Vitoria's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vivixsdutra&show_icons=true&theme=cobalt#gh-dark-mode-only)](https://github.com/vivixsdutra/github-readme-stats#gh-dark-mode-only)
+[![snake gif](https://raw.githubusercontent.com/vivixsdutra/vivixsdutra/output/dist/github-contribution-grid-snake.svg)](https://github.com/vivixsdutra/vivixsdutra/actions)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivixsdutra&layout=compact&theme=cobalt)](https://github.com/vivixsdutra/github-readme-stats)
+##
+
+[![Vitoria's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vivixsdutra&show_icons=true&theme=cobalt#gh-dark-mode-only)](https://github.com/vivixsdutra/github-readme-stats#gh-dark-mode-only)
+[![Vitoria's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vivixsdutra&show_icons=true#gh-light-mode-only)](https://github.com/vivixsdutra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=vivixsdutra&layout=compact&theme=cobalt#gh-dark-mode-only)](https://github.com/vivixsdutra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=vivixsdutra&layout=compact#gh-light-mode-only)](https://github.com/vivixsdutra/github-readme-stats#gh-light-mode-only)
 
 ##
 
