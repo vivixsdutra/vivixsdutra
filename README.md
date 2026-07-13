@@ -8,7 +8,7 @@
  
  ##
 
-[![snake gif](https://raw.githubusercontent.com/vivixsdutra/vivixsdutra/output/dist/github-contribution-grid-snake.svg)](https://github.com/vivixsdutra/vivixsdutra/actions)
+[![snake gif](https://raw.githubusercontent.com/vivixsdutra/vivixsdutra/output/github-contribution-grid-snake.svg)](https://github.com/vivixsdutra/vivixsdutra/actions)
 
 ##
 
